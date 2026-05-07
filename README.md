@@ -1,8 +1,7 @@
-# DecodingTrust-Agent Arena
+# DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents
 
 A framework for evaluating AI agent trustworthiness across various domains including CRM, workflow automation, and more.
 
-For detailed setup instructions and task creation, see the [Quickstart Guide](docs/quickstart.md).
 
 ### Quick Start
 
